@@ -1,0 +1,11 @@
+{
+    "name": "wrql/discord-bot",
+    "autoload": {
+        "psr-4": {
+            "Application\\": "app/"
+        }
+    },
+    "require": {
+        "team-reflex/discord-php": "^7.3"
+    }
+}
